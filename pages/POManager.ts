@@ -4,7 +4,7 @@
 import { Page } from "@playwright/test";
 import { LoginPage } from "../pages/LoginPage";
 import { InventoryPage } from "../pages/InventoryPage";
-import { CartPage } from "../pages/cartPage";
+import { CartPage } from "../pages/CartPage";
 import { CheckOutPage1 } from "../pages/CheckOutPage1";
 import { CheckOutPage2 } from "../pages/CheckOutPage2";
 import { CheckOutComplete } from "../pages/CheckOutComplete";
